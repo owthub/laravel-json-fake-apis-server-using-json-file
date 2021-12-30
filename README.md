@@ -1,4 +1,4 @@
-# Laravek Fake JSON REST APIs Server via JSON File
+# Laravel Fake JSON REST APIs Server via JSON File
 Laravel application built with Fake REST APIs for Testing and Prototyping by Online Web Tutor Team.
 
 This fake json rest api server is built in laravel 8 (current version) framework. This entire rest api server is working by db.json file. What this file is and how can you setup this entire system to your machine.
